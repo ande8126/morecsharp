@@ -1,0 +1,5 @@
+/Users/patrickanderson/postprime/morecsharp/obj/Debug/net5.0/morecsharp.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/morecsharp/obj/Debug/net5.0/morecsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/morecsharp/obj/Debug/net5.0/morecsharp.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/morecsharp/obj/Debug/net5.0/morecsharp.AssemblyInfo.cs
+/Users/patrickanderson/postprime/morecsharp/obj/Debug/net5.0/morecsharp.csproj.CoreCompileInputs.cache
